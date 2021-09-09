@@ -1,0 +1,16 @@
+numpy
+tensorflow
+face_recognition
+pyttsx3
+pywhatkit
+wikipedia
+pyjokes
+tflearn
+speechRecognition
+nltk
+keras
+opencv-python
+pipwin
+google_trans_new
+mediapipe
+pipwin
