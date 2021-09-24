@@ -1,4 +1,18 @@
 # RFASC
+## Facial Recognition and Sentimental Analysis Interacting with a Voice ChatBot
+
+
+We are a group of four people, we worked on this project for one month as an academic project.
+
+The goal of this project is to create a chatbot that interacts with the identified person based on their detected sentiment. 
+Our project consists of three main parts: facial recognition, sentimental analysis and a voice chatbot.
+
+
+
+
+
+
+# RFASC
 ## Reconnaissance faciale et Analyse sentimentale en Interagissant avec un ChatBot vocale
 
 
